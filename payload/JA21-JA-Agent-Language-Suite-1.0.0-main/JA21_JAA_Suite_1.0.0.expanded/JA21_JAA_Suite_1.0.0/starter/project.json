@@ -1,0 +1,8 @@
+{
+  "name": "ja-agent-starter",
+  "language": "ja.agent",
+  "version": "0.1.0",
+  "entry": "hello_agent.jaa",
+  "policy": "no_network",
+  "expected": "structural-validation-only"
+}

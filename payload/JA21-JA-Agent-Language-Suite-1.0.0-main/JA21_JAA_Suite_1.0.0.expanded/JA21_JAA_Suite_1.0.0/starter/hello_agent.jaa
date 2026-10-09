@@ -1,0 +1,23 @@
+ja source 0.3
+module starter.ja_agent.hello
+use Agent
+policy no_network
+
+agent HelloAgent {
+    identity "hello_agent"
+    role "audited-local-assistant"
+    goal summarize_local_report when confidence >= 0.80
+    memory session retention 1h
+    budget steps 8 tools 1
+    tool InspectLocalReport(input: Path) -> Report requires tool.invoke:approved
+    plan Main {
+        observe workspace
+        authorize InspectLocalReport
+        require human_approval before InspectLocalReport
+        execute InspectLocalReport("report.txt")
+        record mcrt
+        terminate when goal.satisfied
+    }
+}
+assert agent.capability_boundary.valid == true
+emit mcrt "HelloAgent.mcrt"

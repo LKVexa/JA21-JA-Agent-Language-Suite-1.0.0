@@ -1,0 +1,119 @@
+{
+  "repository": "JA21-JA-Agent-Language-Suite-1.0.0",
+  "copyright": "JA21-JA-Agent-Language-Suite-1.0.0 (C) 2026 RUSSELL PHILIP SMITHSON",
+  "license": "GPL-3.0-only",
+  "publication_date": "2026-10-09",
+  "source_preservation": "Original source directories, compressed archives, source manifests, and prior audit source statistics remain unchanged.",
+  "manifest_policy": "Only existing current manifest/checksum records covering files changed by the licensing pass were refreshed. No source audit statistics were rewritten.",
+  "changes": [
+    {
+      "path": "COPYRIGHT",
+      "action": "added",
+      "reason": "Requested repository copyright attribution",
+      "original_sha256": null,
+      "original_bytes": null,
+      "current_sha256": "0c7c4b8ebc2a79cdf55bfcf26e581febf617058245b0d61fbd99167fb9ed6993",
+      "current_bytes": 106
+    },
+    {
+      "path": "LICENSE",
+      "action": "added",
+      "reason": "Requested GPL-3.0-only repository license",
+      "original_sha256": null,
+      "original_bytes": null,
+      "current_sha256": "e7dc92c1b5ccfa99cb65f20592f34f841e63ed700ad0364d9bbeb1684c4c1f44",
+      "current_bytes": 35256
+    },
+    {
+      "path": "NOTICE",
+      "action": "added",
+      "reason": "Repository license and publication provenance notice",
+      "original_sha256": null,
+      "original_bytes": null,
+      "current_sha256": "5849d51b3bb105bd12be74d42ca2c5d6b0d1f97b48fb9f1729a71bfd91419e4c",
+      "current_bytes": 375
+    },
+    {
+      "path": "audit/updated_manifest.json",
+      "action": "modified",
+      "reason": "Refresh current manifest records for licensing edits",
+      "original_sha256": "36bac6f43a19b4087955e12a027c2e91f75cdfe90f75741f75c2ea0f8617f73f",
+      "original_bytes": 319823,
+      "current_sha256": "a32e5a3f480a94a0f55dfb66b33f40a8e88f2c26ea7925d80976f4bcd24063ec",
+      "current_bytes": 314463
+    },
+    {
+      "path": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/PROVENANCE.md",
+      "action": "modified",
+      "reason": "Reconcile current package licensing statement",
+      "original_sha256": "c2cef2128d2b29f946b6923b58b5b252e403d82e65c943affc6e99eaceb99bef",
+      "original_bytes": 497,
+      "current_sha256": "6674f5cd460f88b2ed9085f0efefe2db94c88386cb985cae64dc4c43a8a2d06b",
+      "current_bytes": 717
+    },
+    {
+      "path": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/README.md",
+      "action": "modified",
+      "reason": "Reconcile current package licensing statement",
+      "original_sha256": "db9fdce0b4668771e21c448bff86e873d8af74e0ee991e51d0117b45a1c0a027",
+      "original_bytes": 3516,
+      "current_sha256": "98dff082605b55987c2a1792098cc2cfbf7b5e980888c0244aeba725267b08b4",
+      "current_bytes": 3625
+    },
+    {
+      "path": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/manifests/MANIFEST.json",
+      "action": "modified",
+      "reason": "Refresh current manifest records for licensing edits",
+      "original_sha256": "1f9177c14a660302fa27b780a00e0814c07551b12f95f80a3e788572b689a347",
+      "original_bytes": 207663,
+      "current_sha256": "f9d5c2d3c549815d9c141f097d8ae4b888cfbce199a76936214471fd8d8c0bac",
+      "current_bytes": 207663
+    },
+    {
+      "path": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/manifests/SHA256SUMS.txt",
+      "action": "modified",
+      "reason": "Refresh current checksum records for licensing edits",
+      "original_sha256": "5d3be44d008bd781ec452b267268305a86363067336f59a7af2f0f89d8fd5d21",
+      "original_bytes": 136064,
+      "current_sha256": "c70b574d110304f900b2b2b44129d3696b0cefafde30dcbe7e1ba38069f276f3",
+      "current_bytes": 136064
+    },
+    {
+      "path": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/LICENSE.txt",
+      "action": "modified",
+      "reason": "Replace prior authored package license notice with requested GPL-3.0-only",
+      "original_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "original_bytes": 11358,
+      "current_sha256": "e7dc92c1b5ccfa99cb65f20592f34f841e63ed700ad0364d9bbeb1684c4c1f44",
+      "current_bytes": 35256
+    }
+  ],
+  "current_manifest_updates": [
+    {
+      "path": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/manifests/MANIFEST.json",
+      "covered_changes": [
+        "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/PROVENANCE.md",
+        "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/README.md"
+      ]
+    },
+    {
+      "path": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/manifests/SHA256SUMS.txt",
+      "covered_changes": [
+        "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/PROVENANCE.md",
+        "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/README.md",
+        "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/manifests/MANIFEST.json"
+      ]
+    },
+    {
+      "path": "audit/updated_manifest.json",
+      "covered_changes": [
+        "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/manifests/MANIFEST.json",
+        "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/manifests/SHA256SUMS.txt",
+        "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/PROVENANCE.md",
+        "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/README.md",
+        "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/LICENSE.txt"
+      ]
+    }
+  ],
+  "ledger_integrity": "The publication-wide checksum manifest should cover this ledger; this ledger does not include a self-hash."
+}

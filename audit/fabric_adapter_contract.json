@@ -1,0 +1,13 @@
+{
+  "profile": "ja.agent",
+  "proposed_contribution": "Bounded plans, tool authority, approvals, memory and termination",
+  "reuse_boundary": "Reinfer capabilities from actual source; prevent delegated privilege amplification.",
+  "source_archive_sha256": "b6941a03799d6509db2a37b36d74de461e98d83f359fa74670b188be2f96b7f2",
+  "source_evidence_paths": [
+    "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/SUITE_CATALOG.md",
+    "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/catalogs/FEATURE_ATLAS.md",
+    "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/specifications/LANGUAGE_SPECIFICATION.md"
+  ],
+  "executable_adapter_implemented": false,
+  "mathematical_foundation": "8S Penteract-S3 Master Coupled Mechanics Law for intended JA model; typed operator semantics require their owning profile."
+}

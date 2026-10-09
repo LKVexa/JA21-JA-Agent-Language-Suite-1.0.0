@@ -1,0 +1,139 @@
+{
+  "corpus": "JA21-JA-Agent-Language-Suite-1.0.0-main",
+  "status": "PASS",
+  "datasets": [
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\JA21_JAA_TECHNICAL_CORPUS_10000.jsonl.gz",
+      "program_records": 10000,
+      "metadata_records": 0,
+      "source_hashes_verified": 10000
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_01.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_02.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_03.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_04.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_05.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_06.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_07.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_08.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_09.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_10.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_11.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_12.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_13.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_14.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_15.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_16.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_17.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_18.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_19.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    },
+    {
+      "path": "payload\\JA21-JA-Agent-Language-Suite-1.0.0-main\\JA21_JAA_Suite_1.0.0.expanded\\JA21_JAA_Suite_1.0.0\\corpus\\technical\\jaa_20.jsonl.gz",
+      "program_records": 500,
+      "metadata_records": 0,
+      "source_hashes_verified": 500
+    }
+  ],
+  "unique_master_program_records": 10000,
+  "supplied_schemas_applied": [],
+  "metadata_warning_occurrences": {
+    "SOURCE_REQUIREMENT_METADATA_REVIEW": 17500
+  },
+  "scope": "Supplied schema where available, strict audit extension, exact source hashes where supplied, identity and master/shard equality. Domain grammar, types and execution not certified.",
+  "failures": []
+}

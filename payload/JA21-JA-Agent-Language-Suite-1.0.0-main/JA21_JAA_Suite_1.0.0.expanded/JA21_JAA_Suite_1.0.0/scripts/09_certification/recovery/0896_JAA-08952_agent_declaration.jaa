@@ -1,0 +1,23 @@
+ja source 0.3
+module corpus.ja_agent.example_08952
+use Agent
+policy no_network
+
+agent JAA_08952 {
+    identity "jaa_08952"
+    role "audited-coordinator"
+    goal complete_task_30 when confidence >= 0.80
+    memory session retention 1h
+    budget steps 40 tools 27
+    tool InspectRepo(input: Path) -> Report requires tool.invoke:unbounded
+    plan Main {
+        observe workspace
+        authorize InspectRepo
+        require human_approval before InspectRepo
+        execute InspectRepo("workspace")
+        record mcrt
+        terminate when goal.satisfied
+    }
+}
+assert agent.capability_boundary.valid == false
+emit mcrt "JAA_08952.mcrt"

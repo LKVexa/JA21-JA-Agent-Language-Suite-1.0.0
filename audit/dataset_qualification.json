@@ -1,0 +1,242 @@
+[
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/catalogs/SCRIPT_CATALOG.jsonl",
+    "current_sha256": "ef624b815a24bc7fb8d2db6aeac7b0dada1e25f403f634f87e666d9bc4ea4be6",
+    "source_sha256": "ef624b815a24bc7fb8d2db6aeac7b0dada1e25f403f634f87e666d9bc4ea4be6",
+    "stored_jsonl_rows": 1000,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/JA21_JAA_TECHNICAL_CORPUS_10000.jsonl.gz",
+    "current_sha256": "877482aaa94fd92cf810d51a0de93e418e6ac1c5ef774ece208d971364448b49",
+    "source_sha256": "7564e7e03887cca5a118aeb235ac7e9fa8ac55beaba95c5cde5b79cdc3d037a2",
+    "stored_jsonl_rows": 10000,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_01.jsonl.gz",
+    "current_sha256": "7d0c70338f9c7e3a09a8a641b57ece9d617e8bc52216b1b96af54a2427ac688c",
+    "source_sha256": "fcc50e742938d06a2963290359f33e5db463059d86aafa5264d264a422ed0400",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_02.jsonl.gz",
+    "current_sha256": "7c4ae78475b311868f10aafde07566c02d6bae6bd185fda93a3bc950fc934f2f",
+    "source_sha256": "47e0880fb8e76cc18ee0afb069d1f51d047d3a08dbe1989c7ab15bb30007a151",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_03.jsonl.gz",
+    "current_sha256": "8a7c40b73ca569130ac11001f3b47c82d7d487dbc5dad0a936f42f112c258bbb",
+    "source_sha256": "fefe8eec771ac45707f76e9bfaa214b9eb5b7086281ac47aed84c50785d1491c",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_04.jsonl.gz",
+    "current_sha256": "f7f5d8cb1cf708090b26307a13958ae248b8b561388da437f233615fd37e8bd5",
+    "source_sha256": "794c082a558745076c31f647996712005484f79c0941140e74a4d81f627b2155",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_05.jsonl.gz",
+    "current_sha256": "f52ea58d9e8e81c25bf84c0bb3edd3c35c55fb5133e054304040c8b70fabe5e2",
+    "source_sha256": "2eb698dc2b32d3f5fa780ab4ecff8e19bbfb479bf97d2b113e0ed272967648f8",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_06.jsonl.gz",
+    "current_sha256": "1b4ff4eee909aead4c953a32f273a9eae0ba4dbfdec54109c892ebacced96beb",
+    "source_sha256": "251da998cf28c7ba0cd8573527e1aae1a31508180338abcdb109142c774b9685",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_07.jsonl.gz",
+    "current_sha256": "513b794ab116c2e05b737b157a39e2ab30bb59ad5b1c7f613c7d69209c21c5b8",
+    "source_sha256": "4f2929b07ada0b8397ed1fa842b1ffe301301138e916acd5b26e92609a03c0f7",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_08.jsonl.gz",
+    "current_sha256": "30da027235d69731c7851abb75743c00cf78a6fc96b7b40b5c1837dbb408bd66",
+    "source_sha256": "c7da79e1c4ddb78453c1788706d5a2f7ac56f0a89a8a52563e9e761a2f8d848c",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_09.jsonl.gz",
+    "current_sha256": "0edb65986713d11d846eaea59f7ce15c28e396861803ea87b41fb7fdc6d56871",
+    "source_sha256": "386e9943f6d0db2c348f870b25144bbc21f69ce739c7269c0b7878f889f0e088",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_10.jsonl.gz",
+    "current_sha256": "ef9f2776ba9a95daea5c99a4ef9780aa832f86c154777c23401ac198638f7e51",
+    "source_sha256": "657341827eee3f69e5ce212694c6161ca757f5954748d932d7d213e434ff2e6d",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_11.jsonl.gz",
+    "current_sha256": "ba40ef7abc6330fb6e504bff1a0769186788b1a59d364bfac1b01d4c76819e74",
+    "source_sha256": "2aee4fe3c098e7501767ef4a4c63892bb22fca1025229f262de9d539485ef1d1",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_12.jsonl.gz",
+    "current_sha256": "5d5134c1aa6d7a5eec2bb2652899c4ab15b9056ee01eaefdfa57c6ff03fe55c4",
+    "source_sha256": "a43a56f2a00e2086079b17799f8152b9f9d23869982547ae4553c9775bef46c1",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_13.jsonl.gz",
+    "current_sha256": "6c26deb564fdee5be7db0d2a103191318325285f4e1906d0a7fbbf6a796cc1b2",
+    "source_sha256": "70a546fcf28b7e6b228f342cd1e79694bd1660f044d59c3d085e0d6dfc9ad573",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_14.jsonl.gz",
+    "current_sha256": "578421fdf032b0a75fb6a84fb2c8c7967452588aa42162e053edf22e08a6154b",
+    "source_sha256": "34d04a10694de11a343d632a6cc33bb9437a96f89fd857c40dfcdae9834d043d",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_15.jsonl.gz",
+    "current_sha256": "df3949cdc264fba5260ea3ef2e500b528ba4af366fd7974c3b246e103b5a29ee",
+    "source_sha256": "b4b8f8cad1ffdd58774823bfb2d72054e00e9e70b9a0bad24b00b71721e0cef1",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_16.jsonl.gz",
+    "current_sha256": "a5c9bf78e417c17df8ea6618ce0b517f7a1c2262a29b0a9f8ba400af04a3b58e",
+    "source_sha256": "4c0563fd1462b9e95ca36f2d28110311999c5c0d914f050d2a8eb73738488b36",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_17.jsonl.gz",
+    "current_sha256": "8f913bba5b6b4ce31903ac93618136a404dcbc11228660dac999177a417775a3",
+    "source_sha256": "23c5b7d9d9fac14f40c60f23d144e7523b2d72ca90411f4de528b6cba19f9793",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_18.jsonl.gz",
+    "current_sha256": "5a973fd702bda840dec66010f143543ec4821bd9794ef2ebb494a49c99200847",
+    "source_sha256": "396d9f4c7b58456e6edb8057468c4974900ce6a087f3b128e577609d53cef154",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_19.jsonl.gz",
+    "current_sha256": "baf1a6b90cedf3e50a224af030ea7048eddcf3716542316521644f55153c5a94",
+    "source_sha256": "287d9ab25d4fb0e941c8032d1dcd782ef8c34c6a1c83e6f4ba3d656571526560",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/corpus/technical/jaa_20.jsonl.gz",
+    "current_sha256": "1139c8351f24872675507ea10294c74231a7a2d4fe58006b856e1bcf3120ac45",
+    "source_sha256": "af8482b939c4efa6a71dc4817d067666346929fd4783c051f186cb49caddcef0",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/reference_source/JA_Agent_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+    "current_sha256": "7ab6d295c4681d6eb82dd97439b217997e95c95a287b95bd5e2b6c66734c4518",
+    "source_sha256": "7ab6d295c4681d6eb82dd97439b217997e95c95a287b95bd5e2b6c66734c4518",
+    "stored_jsonl_rows": 7,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-JA-Agent-Language-Suite-1.0.0-main/JA21_JAA_Suite_1.0.0.expanded/JA21_JAA_Suite_1.0.0/reference_source/ja_agent_0.1.0_provisional/ja-agent_corpus_10000.jsonl",
+    "current_sha256": "d0e4130345f5ea42f0bec1be7949cfd99a7242d1bcb8a99fabf811f4dff98d28",
+    "source_sha256": "d0e4130345f5ea42f0bec1be7949cfd99a7242d1bcb8a99fabf811f4dff98d28",
+    "stored_jsonl_rows": 10001,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  }
+]
